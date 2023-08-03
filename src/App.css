@@ -1,0 +1,11 @@
+body {
+  background-color: #c1c1c1;
+}
+
+.progressBarFill {
+  border-radius: 10px 0px 0px 10px;
+}
+
+.progressBar {
+  border-radius: 0px 10px 10px 0px;
+}
